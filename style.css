@@ -1,0 +1,99 @@
+html {
+    font-family: 'Bowlby One SC', cursive;
+    text-align: center;
+    color: #c80000;
+}
+
+
+#heading {
+    color: #c80000;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.doughnut {
+    margin-top: 200px;
+}
+
+.itemTitle {
+    font-size: 27px;
+}
+
+.shopPic {
+    color: white;
+}
+
+.worth {
+    margin-bottom: 0;
+}
+
+.inputC {
+    padding: 8px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    width: 400px;
+}
+
+#button1 {
+    background-color: white;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.footer {
+    font-size: 13px;
+    font: white;
+}
+
+@media only screen and (min-width: 600px) {
+
+html {
+    font-size: 20px;
+}
+
+#heading {
+    font-size: 55px;
+}
+
+.shop {
+    width: 700px; 
+}
+
+
+.footer {
+    font-size: 15px;
+}
+
+}
+
+
+@media only screen and (min-width: 1000px) {
+
+html {
+    font-size: 30px;
+}
+
+#heading {
+    font-size: 90px;
+}
+
+
+.item1 {
+    width: 500px;
+}
+
+.inputC {
+    font-size: 25px;
+}
+
+#button1 {
+    background-color: white;
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+.footer {
+    font-size: 25px;
+}
+
+}
